@@ -1,2 +1,2 @@
-# react-challenge-dev-profile-starter
+# react-challenge-dev-profile-card
 Created with CodeSandbox
